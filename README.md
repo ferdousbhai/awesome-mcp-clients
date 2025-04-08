@@ -529,6 +529,20 @@ Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API,
 
 </details>
 
+### LLM Terminal
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/ferdousbhai/llm-terminal</td></tr>
+<tr><th align="left">Website</th><td>-</td></tr>
+<tr><th align="left">License</th><td>MIT</td></tr>
+<tr><th align="left">Type</th><td>CLI</td></tr>
+<tr><th align="left">Platforms</th><td>Windows, MacOS, Linux</td></tr>
+<tr><th align="left">Pricing</th><td>Free</td></tr>
+<tr><th align="left">Programming Languages</th><td>Python</td></tr>
+</table>
+
+LLM Terminal is a terminal-based UI built with Textual for interacting with LLMs through PydanticAI. It features streaming markdown responses, dynamic configuration of models and system prompts, and integrates with MCP servers defined in `mcp_config.json` for tool execution.
+
 ### MCP Chatbot
 
 <table>
